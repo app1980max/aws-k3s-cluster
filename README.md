@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/450da65f-cb68-47df-8fe0-2e3965b72281" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f8e2e2b-364d-454e-af56-6bbaf7c6f5fa" />
 
 
 ## Terraform Provisioner | K3S Model  🚀🚀🚀
