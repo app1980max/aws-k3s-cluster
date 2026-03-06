@@ -3,7 +3,7 @@
 
 
 ## Terraform Provisioner | K3S Model  🚀🚀🚀
-
+k3s is a lightweight, fully compliant Kubernetes distribution that’s much smaller and easier to run than standard Kubernetes — great for small clusters, edge, or experimental environments.
 
 🎯  Key Features
 ```
