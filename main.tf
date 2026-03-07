@@ -1,3 +1,4 @@
+
 terraform {
   required_providers {
     aws = {
@@ -116,7 +117,7 @@ resource "aws_instance" "k3s_master" {
   }
 
   provisioner "file" {
-    source      = "install-k3s.sh"
+    source      = "./configuration/install-k3s.sh"
     destination = "/tmp/install-k3s.sh"
   }
 
@@ -163,7 +164,7 @@ resource "aws_instance" "k3s_worker" {
   }
 
   provisioner "file" {
-    source      = "install-k3s.sh"
+    source      = "./configuration/install-k3s.sh"
     destination = "/tmp/install-k3s.sh"
   }
 
